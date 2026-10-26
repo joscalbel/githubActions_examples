@@ -14,5 +14,5 @@
 ![](capturas/paso5-crear-githubworkflows.png)
 ---
 ## Pas 6: Pujar el codi correcte i verificar el primer èxit ❌
-![]()
+![](capturas/paso6-subir-codigo.png)
 ---
