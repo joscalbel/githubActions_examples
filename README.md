@@ -8,7 +8,7 @@
 ![](capturas/paso3-crearjson.png)
 ---
 ## Pas 4: Crear l'aplicació Node.js d'exemple (server.js)
-![]()
+![](capturas/paso4-crear-serverjs.png)
 ---
 ## Pas 5: Crear el workflow de GitHub Actions (main_workflow.yml)
 ![]()
