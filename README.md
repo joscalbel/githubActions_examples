@@ -1,5 +1,5 @@
 ## Pas 1: Crear el repositori a GitHub i clonar-lo (o inicialitzar-lo localment)
-![]()
+![](capturas/paso1-clonar-repositorio.png)
 ---
 ## Pas 2: Crear i canviar a la nova branca
 ![]()
