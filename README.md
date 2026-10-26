@@ -1,8 +1,8 @@
 ## Pas 1: Crear el repositori a GitHub i clonar-lo (o inicialitzar-lo localment)
-![](capturas/paso1-clonar-repositorio.png)
+![Pas 1](capturas/paso1-clonar-repositorio.png)
 ---
 ## Pas 2: Crear i canviar a la nova branca
-![]()
+![Pas 2](capturas/paso2-crear-rama.png)
 ---
 ## Pas 3: Crear el fitxer de configuració del Linter (.eslintrc.json)
 ![]()
