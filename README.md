@@ -5,7 +5,7 @@
 ![Pas 2](capturas/paso2-crear-rama.png)
 ---
 ## Pas 3: Crear el fitxer de configuració del Linter (.eslintrc.json)
-![]()
+![](capturas/paso3-crearjson.png)
 ---
 ## Pas 4: Crear l'aplicació Node.js d'exemple (server.js)
 ![]()
