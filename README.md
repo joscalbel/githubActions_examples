@@ -17,4 +17,4 @@
 ![](capturas/paso6-subir-codigo.png)
 ---
 ## Pas 7: Provar el cas erroni per comprovar que falla (❌)
-![]()
+![](capturas/paso7-02-comprobar-linter.png)
