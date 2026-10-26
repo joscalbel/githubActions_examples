@@ -16,3 +16,5 @@
 ## Pas 6: Pujar el codi correcte i verificar el primer èxit ❌
 ![](capturas/paso6-subir-codigo.png)
 ---
+## Pas 7: Provar el cas erroni per comprovar que falla (❌)
+![]()
