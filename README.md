@@ -11,7 +11,7 @@
 ![](capturas/paso4-crear-serverjs.png)
 ---
 ## Pas 5: Crear el workflow de GitHub Actions (main_workflow.yml)
-![]()
+![](capturas/paso5-crear-githubworkflows.png)
 ---
 ## Pas 6: Pujar el codi correcte i verificar el primer èxit ❌
 ![]()
